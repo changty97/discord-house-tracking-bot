@@ -25,7 +25,7 @@ url        = [
 ]
 
 # Webhook Varibales
-webhook = DiscordWebhook(url='https://discordapp.com/api/webhooks/803149173531738112/eyX9efVcRfARXeEfKuv61139dhw43lYhCoHBf8dxJ5gwQaefgUB1S-asECBiTpozhRxr')
+webhook = DiscordWebhook(url='https://discordapp.com/api/webhooks/')
 
 # Loop Through All URLs and get the Prices and Links for all houses
 for u in url:
