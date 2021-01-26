@@ -26,7 +26,7 @@ url        = [
 ]
 
 # Webhook Varibales
-webhook = DiscordWebhook(url='https://discordapp.com/api/webhooks/803149173531738112/eyX9efVcRfARXeEfKuv61139dhw43lYhCoHBf8dxJ5gwQaefgUB1S-asECBiTpozhRxr')
+webhook = DiscordWebhook(url='https://discordapp.com/api/webhooks/')
 
 # File to Open
 filepath = 'previous_houses.txt'
